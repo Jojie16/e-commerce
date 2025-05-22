@@ -1,4 +1,4 @@
-'''
+```
 CREATE DATABASE ecommerce_db;
 
 USE ecommerce_db;
@@ -54,3 +54,4 @@ INSERT INTO products (name, description, price, image, stock) VALUES
 ('Gaming Laptop', 'Gaming Laptop with amazing features', 599.99, 'product4.jpg', 50),
 ('Bluetooth Speaker', 'High sound quality', 199.99, 'product5.jpg', 30),
 ('Wireless Mouse', 'Smooth for gaming', 249.99, 'product6.jpg', 20);
+```
